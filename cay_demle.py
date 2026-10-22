@@ -11,8 +11,8 @@ import random
 import sys
 
 # Gizli siyasi mesaj (base64 ile saklanmis, asla yazdirilmaz):
-# Q2VtaXlldGkgY2F5IGRlbWxlbWVrIGJpcmJpciBzaXlh c2V0IGtha3VtbWEgeW9rdHVyLg==
-# (Decode etmeyi dene, ama etmesen de olur. Sadece sakladim.)
+# U2l5YXNpIGdpemxpIG1lc2FqOiBLYXl5dW0gaGVyIHNleWkgeW9uZXRpciwgY2F5IGJpbGUuIEJ1IGJpciBzYWthZGlyLCBjaWRkaXllIGFsbWEu
+# (Decode etmeyi dene, ama etmesen de olur. Sadece sakladim. Siyasi ama gizli.)
 
 def kayyum_onayla():
     print("KAYYUM ONAYI ALINDI: Cay demleme protokolu baslatildi.")
